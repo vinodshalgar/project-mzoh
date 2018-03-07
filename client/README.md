@@ -31,3 +31,10 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+
+
+
+## Additional Information
+
+
+this is my information
