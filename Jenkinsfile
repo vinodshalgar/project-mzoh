@@ -3,7 +3,7 @@ node{
 
     stage 'Test'
 
-    stage 'Mamu'
+    stage 'Made'
 }
 
 //testting testing werrwerweraasdvsdfsdfs lalallalalal
