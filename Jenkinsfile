@@ -1,5 +1,5 @@
 timestamps{
-    node('Linux'){
+    node{
 
     }
 }
