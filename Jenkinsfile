@@ -1,3 +1,5 @@
 timestamps{
-    
+    node('Linux'){
+
+    }
 }
