@@ -11,7 +11,7 @@ timestamps{
 
             echo 'vinod shalgar'
 
-            echo env
+           
 
         }
     }
