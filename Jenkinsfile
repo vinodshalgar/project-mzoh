@@ -1,10 +1,3 @@
-node{
-    stage 'Build'
-
-    stage 'Test'
-
-    stage 'Made'
-        echo 'this is my test with testing of jenkins pipeline'
+timestamps{
+    
 }
-
-//testting testing werrwerweraasdvsdfsdfs lalallalalal
