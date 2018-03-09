@@ -8,12 +8,13 @@ timestamps{
             def url
             def git_commit
             def git_commit_short
-
-            
-
-            stage('Stage1'){
-                echo 'vinod shalgar'
+                        
+            timeout(time: 20, unit: 'MINUTES'){
+                 stage('Stage1'){
+                    echo 'vinod shalgar'
+                }
             }
+           
            
 
         }
