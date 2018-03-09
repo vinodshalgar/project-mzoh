@@ -1,5 +1,8 @@
 timestamps{
-    node('Jenkins'){
-
+    node{
+        ws('/var/lib/jenkins/workspace/project-mzoh')
+        {
+            
+        }
     }
 }
