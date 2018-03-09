@@ -11,7 +11,9 @@ timestamps{
 
             
 
-            echo 'vinod shalgar'
+            stage('Stage1'){
+                echo 'vinod shalgar'
+            }
            
 
         }
